@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "name": "Acme Corp",
+        "password": "111111",
+        "employees": [
+            {
+                "id": 1,
+                "name": "John Doe",
+                "position": "Software Engineer",
+                "resigned": false,
+                "email": "john.doe@acmecorp.com"
+            },
+            {
+                "id": 2,
+                "name": "Jane Smith",
+                "position": "Product Manager",
+                "resigned": false,
+                "email": "jane.smith@acmecorp.com"
+            },
+            {
+                "id": 3,
+                "name": "Alex Johnson",
+                "position": "UI/UX Designer",
+                "resigned": true,
+                "email": "alex.johnson@acmecorp.com"
+            },
+            {
+                "id": 4,
+                "name": "Sarah Thompson",
+                "position": "Data Analyst",
+                "resigned": false,
+                "email": "sarah.thompson@acmecorp.com"
+            },
+            {
+                "id": 5,
+                "name": "Michael Brown",
+                "position": "Project Manager",
+                "resigned": false,
+                "email": "michael.brown@acmecorp.com"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "XYZ Inc",
+        "employees": [
+            {
+                "id": 6,
+                "name": "Emily Davis",
+                "position": "Marketing Specialist",
+                "resigned": false,
+                "email": "emily.davis@xyzinc.com"
+            },
+            {
+                "id": 7,
+                "name": "David Wilson",
+                "position": "Quality Assurance Engineer",
+                "resigned": true,
+                "email": "david.wilson@xyzinc.com"
+            },
+            {
+                "id": 8,
+                "name": "Olivia Martinez",
+                "position": "Human Resources Manager",
+                "resigned": false,
+                "email": "olivia.martinez@xyzinc.com"
+            },
+            {
+                "id": 9,
+                "name": "James Johnson",
+                "position": "Sales Representative",
+                "resigned": false,
+                "email": "james.johnson@xyzinc.com"
+            },
+            {
+                "id": 10,
+                "name": "Sophia Thompson",
+                "position": "Graphic Designer",
+                "resigned": true,
+                "email": "sophia.thompson@xyzinc.com"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "ABC Pvt. Ltd.",
+        "employees": [
+            {
+                "id": 11,
+                "name": "Daniel Clark",
+                "position": "Accountant",
+                "resigned": false,
+                "email": "daniel.clark@abcpvtltd.com"
+            },
+            {
+                "id": 12,
+                "name": "Ava Rodriguez",
+                "position": "Customer Support Specialist",
+                "resigned": false,
+                "email": "ava.rodriguez@abcpvtltd.com"
+            },
+            {
+                "id": 13,
+                "name": "Matthew Lopez",
+                "position": "Operations Manager",
+                "resigned": false,
+                "email": "matthew.lopez@abcpvtltd.com"
+            },
+            {
+                "id": 14,
+                "name": "Isabella Thompson",
+                "position": "Software Engineer",
+                "resigned": false,
+                "email": "isabella.thompson@abcpvtltd.com"
+            },
+            {
+                "id": 15,
+                "name": "William Anderson",
+                "position": "Business Analyst",
+                "resigned": true,
+                "email": "william.anderson@abcpvtltd.com"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Apple Inc.",
+        "employees": [
+            {
+                "id": 16,
+                "name": "Mia Davis",
+                "position": "Marketing Manager",
+                "resigned": false,
+                "email": "mia.davis@appleinc.com"
+            },
+            {
+                "id": 17,
+                "name": "Liam White",
+                "position": "Data Scientist",
+                "resigned": false,
+                "email": "liam.white@appleinc.com"
+            },
+            {
+                "id": 18,
+                "name": "Charlotte Martin",
+                "position": "Product Designer",
+                "resigned": false,
+                "email": "charlotte.martin@appleinc.com"
+            },
+            {
+                "id": 19,
+                "name": "Ethan Harris",
+                "position": "IT Administrator",
+                "resigned": true,
+                "email": "ethan.harris@appleinc.com"
+            },
+            {
+                "id": 20,
+                "name": "Amelia Brown",
+                "position": "Sales Manager",
+                "resigned": false,
+                "email": "amelia.brown@appleinc.com"
+            }
+        ]
+    }
+]
