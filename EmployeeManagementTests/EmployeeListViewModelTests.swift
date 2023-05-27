@@ -7,19 +7,16 @@
 
 import XCTest
 import RxSwift
-import RxTest
 @testable import EmployeeManagement
 
 class EmployeeListViewModelTests: XCTestCase {
     
-    var scheduler: TestScheduler!
     var disposeBag: DisposeBag!
     var viewModel: EmployeeListViewModel!
     
     override func setUp() {
         super.setUp()
         
-        scheduler = TestScheduler(initialClock: 0)
         disposeBag = DisposeBag()
         
         // Create a sample company and view model
