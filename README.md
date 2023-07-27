@@ -1,1 +1,1 @@
-# Employee Management With MVVM-C Patternt and RxSwift
+# Employee Management With MVVM-C Pattern and RxSwift
